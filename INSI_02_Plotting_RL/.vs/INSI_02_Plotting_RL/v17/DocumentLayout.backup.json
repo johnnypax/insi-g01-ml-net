@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\INSI_02_Plotting_RL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0F5947-A080-4FE0-B2B1-FC5BA4E076E6}|ML_03_Plot\\ML_03_Plot.csproj|c:\\users\\academy\\source\\repos\\insi_02_plotting_rl\\ml_03_plot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0F5947-A080-4FE0-B2B1-FC5BA4E076E6}|ML_03_Plot\\ML_03_Plot.csproj|solutionrelative:ml_03_plot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F28FC9-A4B0-435D-8957-4ACE7DC0445B}|INSI_02_Plotting_RL\\ML_01_Salvataggio.csproj|c:\\users\\academy\\source\\repos\\insi_02_plotting_rl\\insi_02_plotting_rl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F28FC9-A4B0-435D-8957-4ACE7DC0445B}|INSI_02_Plotting_RL\\ML_01_Salvataggio.csproj|solutionrelative:insi_02_plotting_rl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AEA6D1-EF18-410C-BF54-93CEB9CC6662}|ML_02_Caricamento_Esclusivo\\ML_02_Caricamento_Esclusivo.csproj|c:\\users\\academy\\source\\repos\\insi_02_plotting_rl\\ml_02_caricamento_esclusivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AEA6D1-EF18-410C-BF54-93CEB9CC6662}|ML_02_Caricamento_Esclusivo\\ML_02_Caricamento_Esclusivo.csproj|solutionrelative:ml_02_caricamento_esclusivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 633,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\INSI_02_Plotting_RL\\INSI_02_Plotting_RL\\Program.cs",
+              "RelativeDocumentMoniker": "INSI_02_Plotting_RL\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\INSI_02_Plotting_RL\\INSI_02_Plotting_RL\\Program.cs",
+              "RelativeToolTip": "INSI_02_Plotting_RL\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwEAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:20:35.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\INSI_02_Plotting_RL\\ML_03_Plot\\Program.cs",
+              "RelativeDocumentMoniker": "ML_03_Plot\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\INSI_02_Plotting_RL\\ML_03_Plot\\Program.cs",
+              "RelativeToolTip": "ML_03_Plot\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowDEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:19:57.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\INSI_02_Plotting_RL\\ML_02_Caricamento_Esclusivo\\Program.cs",
+              "RelativeDocumentMoniker": "ML_02_Caricamento_Esclusivo\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\INSI_02_Plotting_RL\\ML_02_Caricamento_Esclusivo\\Program.cs",
+              "RelativeToolTip": "ML_02_Caricamento_Esclusivo\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwEgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T09:58:57.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

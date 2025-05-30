@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\INSI_05_Multivariante_RL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD5D1D4-5150-495B-BFC9-0A10E9A601A9}|INSI_05_Multivariante_RL\\INSI_05_Multivariante_RL.csproj|c:\\users\\academy\\source\\repos\\insi_05_multivariante_rl\\insi_05_multivariante_rl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD5D1D4-5150-495B-BFC9-0A10E9A601A9}|INSI_05_Multivariante_RL\\INSI_05_Multivariante_RL.csproj|solutionrelative:insi_05_multivariante_rl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 633,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\INSI_05_Multivariante_RL\\INSI_05_Multivariante_RL\\Program.cs",
+              "RelativeDocumentMoniker": "INSI_05_Multivariante_RL\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\INSI_05_Multivariante_RL\\INSI_05_Multivariante_RL\\Program.cs",
+              "RelativeToolTip": "INSI_05_Multivariante_RL\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:48:58.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,17 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 633,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\INSI_03_Classificazione_Binaria\\INSI_03_Classificazione_Binaria\\Program.cs",
               "RelativeDocumentMoniker": "INSI_03_Classificazione_Binaria\\Program.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\INSI_03_Classificazione_Binaria\\INSI_03_Classificazione_Binaria\\Program.cs",
-              "RelativeToolTip": "INSI_03_Classificazione_Binaria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\INSI_03_Classificazione_Binaria\\INSI_03_Classificazione_Binaria\\Program.cs*",
+              "RelativeToolTip": "INSI_03_Classificazione_Binaria\\Program.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwB8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T10:50:35.061Z",
               "EditorCaption": ""

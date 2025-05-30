@@ -18,8 +18,20 @@ var mlContext = new MLContext();
 //Trasformazione dei dati in DataView
 var traingData = mlContext.Data.LoadFromEnumerable(dataSet);
 
+//Creo la Pipeline
 var pipeline = mlContext.Transforms.Concatenate("Features", nameof(ViaggioSpiaggia.Temperatura))
     .Append(mlContext.BinaryClassification.Trainers.SdcaLogisticRegression("VaiAlMare"));
+
+//Addestramento
+var model = pipeline.Fit(traingData);
+
+//Prediction Engine
+var predEngine = mlContext.Model.CreatePredictionEngine< ViaggioSpiaggia, PrevisioneViaggio>(model);
+
+//Simulazione del valore predetto
+var pred = predEngine.Predict(new ViaggioSpiaggia() { Temperatura = 19.5f });
+
+Console.WriteLine($"Puoi andare in spiaggia? {pred.Prediction}");
 
 #region Classi
 
